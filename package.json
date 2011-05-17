@@ -1,0 +1,13 @@
+{ 
+  "name" : "braziljs-realtime-nodejs",
+  "author" : "Emerson Macedo <emerleite@gmail.com>",
+  "repository" : { 
+    "type" : "git",
+    "url" : "git://github.com/emerleite/braziljs-realtime-nodejs.git" 
+  },
+  "version" : "0.0.1",
+  "dependencies" : {
+    "connect" : "1.4.1",
+    "socket.io" : "0.6.17"
+  }
+}
